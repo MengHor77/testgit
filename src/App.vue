@@ -6,6 +6,7 @@ export default {
         const username = ref("");
         const password = ref("");
         const email = ref("")
+        
         return { username, password, email };
     }
 }
